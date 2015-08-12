@@ -1,3 +1,5 @@
+// NOT FOR PRODUCTION USE. Sample files only
+
 var gulp = require("gulp");
 var RevAll = require("gulp-rev-all");
 var liveReload = require("gulp-livereload");
